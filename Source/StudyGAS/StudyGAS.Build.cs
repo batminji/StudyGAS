@@ -14,7 +14,8 @@ public class StudyGAS : ModuleRules
 			"Engine", 
 			"InputCore", 
 			"EnhancedInput",
-            "GameplayTags"});
+            "GameplayTags",
+            "EnhancedInput"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
